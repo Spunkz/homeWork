@@ -6,7 +6,7 @@ it is the registering and listing of some information.
 Used technologies;
 
 >JRE 
->Springframework
+>Spring MVC
 >Hibernate
 >Apache Tomcat
 >Apache Tiles
